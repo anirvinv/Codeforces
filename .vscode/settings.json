@@ -2,6 +2,13 @@
 	"files.associations": {
 		"*.html": "html",
 		"ostream": "cpp",
-		"iostream": "cpp"
+		"iostream": "cpp",
+		"string_view": "cpp",
+		"regex": "cpp",
+		"chrono": "cpp",
+		"random": "cpp",
+		"limits": "cpp",
+		"valarray": "cpp",
+		"cmath": "cpp"
 	}
 }
