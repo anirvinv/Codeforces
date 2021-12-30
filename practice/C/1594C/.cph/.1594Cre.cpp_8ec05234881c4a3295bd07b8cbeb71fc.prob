@@ -1,0 +1,1 @@
+{"name":"Local: 1594Cre","url":"c:\\Codeforces\\practice\\C\\1594C\\1594Cre.cpp","tests":[{"id":1640321704263,"input":"3\n4 a\naaaa\n4 a\nbaaa\n4 b\nbzyx","output":""},{"id":1640322383626,"input":"1\n4 a\nabbb","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codeforces\\practice\\C\\1594C\\1594Cre.cpp","group":"local","local":true}

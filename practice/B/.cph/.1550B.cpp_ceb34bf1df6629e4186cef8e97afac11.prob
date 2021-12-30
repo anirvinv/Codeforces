@@ -1,0 +1,1 @@
+{"name":"Local: 1550B","url":"c:\\Codeforces\\practice\\B\\1550B.cpp","tests":[{"id":1640727082858,"input":"3\n3 2 0\n000\n5 -2 5\n11001\n6 1 -4\n100111","output":"6\n15\n-2"},{"id":1640727759001,"input":"1\n1 -9 77\n0","output":"68"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codeforces\\practice\\B\\1550B.cpp","group":"local","local":true}

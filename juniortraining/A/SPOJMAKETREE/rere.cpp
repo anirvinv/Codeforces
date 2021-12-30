@@ -82,7 +82,7 @@ int main()
             break;
         }
     }
-    // setting all "free floating" nodes to be connected to root node
+    // setting all "free floating" nodes AND leaf nodes to be connected to root node
     for (int i = 1; i <= n; i++)
     {
         if (adjlist[ord[i]].size() == 0)

@@ -1,0 +1,1 @@
+{"name":"Local: notidiot","url":"c:\\Codeforces\\practice\\B\\1583B\\notidiot.cpp","tests":[{"id":1640311964361,"input":"2\n7 4\n1 2 3\n3 4 5\n5 6 7\n6 5 4\n5 3\n1 2 3\n2 3 4\n3 4 5","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codeforces\\practice\\B\\1583B\\notidiot.cpp","group":"local","local":true}
