@@ -1,0 +1,17 @@
+{
+  "files.associations": {
+    "*.html": "html",
+    "iostream": "cpp",
+    "*.tcc": "cpp",
+    "string_view": "cpp",
+    "regex": "cpp",
+    "deque": "cpp",
+    "string": "cpp",
+    "vector": "cpp",
+    "random": "cpp",
+    "chrono": "cpp",
+    "limits": "cpp",
+    "valarray": "cpp",
+    "cmath": "cpp"
+  }
+}

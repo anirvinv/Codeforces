@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"c:\\Codeforces\\practice\\icpcprac1\\A.cpp","tests":[{"id":1642443186388,"input":"5\nR 3\nR 1\nT\nR 2\nT","output":"4\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codeforces\\practice\\icpcprac1\\A.cpp","group":"local","local":true}

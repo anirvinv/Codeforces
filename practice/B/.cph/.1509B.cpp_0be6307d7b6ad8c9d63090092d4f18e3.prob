@@ -1,0 +1,1 @@
+{"name":"Local: 1509B","url":"c:\\Codeforces\\practice\\B\\1509B.cpp","tests":[{"id":1641686113968,"input":"5\n3\nTMT\n3\nMTT\n6\nTMTMTT\n6\nTMTTTT\n6\nTTMMTT","output":"YES\nNO\nYES\nNO\nYES"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codeforces\\practice\\B\\1509B.cpp","group":"local","local":true}

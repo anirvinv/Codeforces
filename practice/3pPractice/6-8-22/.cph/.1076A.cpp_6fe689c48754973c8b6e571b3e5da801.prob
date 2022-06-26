@@ -1,0 +1,1 @@
+{"name":"Local: 1076A","url":"c:\\Codeforces\\practice\\3pPractice\\6-8-22\\1076A.cpp","tests":[{"id":1654696562163,"input":"3\naaa","output":"aa"},{"id":1654696569429,"input":"5\nabcda","output":"abca"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codeforces\\practice\\3pPractice\\6-8-22\\1076A.cpp","group":"local","local":true}

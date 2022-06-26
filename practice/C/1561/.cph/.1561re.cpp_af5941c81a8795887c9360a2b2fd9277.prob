@@ -1,0 +1,1 @@
+{"name":"Local: 1561re","url":"c:\\Codeforces\\practice\\C\\1561\\1561re.cpp","tests":[{"id":1646324237311,"input":"2\n1\n1 42\n2\n3 10 15 8\n2 12 11","output":"43\n13"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codeforces\\practice\\C\\1561\\1561re.cpp","group":"local","local":true}

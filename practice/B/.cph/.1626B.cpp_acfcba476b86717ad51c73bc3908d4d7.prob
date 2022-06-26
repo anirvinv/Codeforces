@@ -1,0 +1,1 @@
+{"name":"Local: 1626B","url":"c:\\Codeforces\\practice\\B\\1626B.cpp","tests":[{"id":1645890529746,"input":"2\n10057\n90","output":"10012\n9"},{"id":1645890625192,"input":"1\n100","output":"10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codeforces\\practice\\B\\1626B.cpp","group":"local","local":true}

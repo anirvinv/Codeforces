@@ -1,0 +1,1 @@
+{"name":"Local: 1155B","url":"c:\\Codeforces\\practice\\3pPractice\\5-27-22\\1155B.cpp","tests":[{"id":1653667274626,"input":"13\n8380011223344","output":"YES"},{"id":1653667331155,"input":"15\n807345619350641","output":"NO"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codeforces\\practice\\3pPractice\\5-27-22\\1155B.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"c:\\Codeforces\\DPpractice\\A.cpp","tests":[{"id":1642819955441,"input":"3\n1 2\n2 3\n3 4","output":"1 55\n2 220\n3 715"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codeforces\\DPpractice\\A.cpp","group":"local","local":true}

@@ -1,0 +1,16 @@
+0:0:14.4 -> finished reading
+0:0:35.4 -> pick x,y,z as indices and replace ax = ay - az and |ax| < 10^18
+0:0:45.2 -> goal is to sort the array this way
+0:6:25.1 -> impossible when there are three elements and they arent already sorted
+0:7:23.8 -> we can only change elements a1->an-2 so if an-1 and an arent sorted, thats a rip
+0:14:59.9 -> Keep track of suffix maxes and suffix mins
+0:15:6.7 -> and then subtract bruv
+0:15:8.4 -> basic idea
+0:15:13.9 -> this was easier than B i shouldve done this first
+0:26:41.0 -> ok nvm
+0:26:42.8 -> this is like
+0:26:46.1 -> an n^3 problem
+0:26:54.9 -> hmmmmmmmmmmmmmmmmmmm
+0:31:18.1 -> so i found a lil mini solution
+0:31:35.5 -> which works if second last element - last element <= last elememnt, then just replace that with everything
+0:40:48.7 -> rip contest ended

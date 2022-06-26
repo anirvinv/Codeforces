@@ -1,0 +1,1 @@
+{"name":"Local: c","url":"c:\\Codeforces\\EduRound125\\c.cpp","tests":[{"id":1647961536377,"input":"5\n2\n()\n3\n())\n4\n((((\n5\n)((()\n6\n)((()(","output":"1 0\n1 1\n2 0\n1 0\n1 1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codeforces\\EduRound125\\c.cpp","group":"local","local":true}

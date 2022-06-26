@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"c:\\Codeforces\\Round777\\A.cpp","tests":[{"id":1647027340293,"input":"5\n1\n2\n3\n4\n5","output":"1\n2\n21\n121\n212"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codeforces\\Round777\\A.cpp","group":"local","local":true}

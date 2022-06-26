@@ -1,0 +1,1 @@
+{"name":"Local: 1637C","url":"c:\\Codeforces\\practice\\C\\1637C.cpp","tests":[{"id":1645752702623,"input":"4\n5\n1 2 2 3 6\n3\n1 3 1\n3\n1 2 1\n4\n3 1 1 2","output":"4\n-1\n1\n-1 "}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codeforces\\practice\\C\\1637C.cpp","group":"local","local":true}

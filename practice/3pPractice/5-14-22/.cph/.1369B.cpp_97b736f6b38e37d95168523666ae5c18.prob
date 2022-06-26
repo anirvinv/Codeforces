@@ -1,0 +1,1 @@
+{"name":"Local: 1369B","url":"c:\\Codeforces\\practice\\3pPractice\\5-14-22\\1369B.cpp","tests":[{"id":1652570522134,"input":"5\n10\n0001111111\n4\n0101\n8\n11001101\n10\n1110000000\n1\n1","output":"0001111111\n001\n01\n0\n1"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codeforces\\practice\\3pPractice\\5-14-22\\1369B.cpp","group":"local","local":true}

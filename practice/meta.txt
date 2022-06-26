@@ -1,0 +1,23 @@
+0:2:29.6 -> done reading problem
+0:3:8.2 -> 2 3 2 2 --> 1 2 1 1 --> 1 1 0 0 --> 0 0 0 0
+0:3:9.1 -> huh
+0:6:9.4 -> i literally dont understand the problem
+0:6:11.0 -> like what
+0:13:2.2 -> 1 5 2 - 0 4 2 - 0 3 1 - 0 2 1 --> 0 1 0 - 0 0 0 
+0:13:6.8 -> ok i get it
+0:13:8.7 -> lmao took a while
+0:14:5.7 -> objective is to flatten the curves?
+0:14:49.8 -> extremely confusing description of the problem
+0:14:51.5 -> horrible writin
+0:16:38.4 -> if the things are in increments of 1, then it works with 1 ball. For example, 1 2 3 4 --> 4'3'2'1'4'3'2'4'3'4'1
+0:17:27.7 -> 1 2 3 5 needs two balls, cuiz one extra 
+0:19:42.8 -> 1 2 3 6? 6 4'3'4'2'4'1'4'3'2'4'3'2'4'3'1?
+0:19:44.9 -> wtf
+0:20:11.6 -> uh this problam kinda hard
+0:21:6.6 -> okok think small
+0:21:44.2 -> 4 for p1, 2 for p2, p1 can get down to 3 passes after using p2
+0:23:51.4 -> get down to 1 pass*
+0:27:50.5 -> uh wtf
+0:27:54.5 -> i kidna just guessed teh solution
+0:27:56.5 -> and it was right
+0:28:2.7 -> i gotta look into why tf its right

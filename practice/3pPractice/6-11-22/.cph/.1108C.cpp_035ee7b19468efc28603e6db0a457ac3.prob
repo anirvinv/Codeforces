@@ -1,0 +1,1 @@
+{"name":"Local: 1108C","url":"c:\\Codeforces\\practice\\3pPractice\\6-11-22\\1108C.cpp","tests":[{"id":1654971669154,"input":"3\nBRB","output":"1\nGRB"},{"id":1654972211782,"input":"7\nRGBGRBB","output":"3\nRGBRGBR"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codeforces\\practice\\3pPractice\\6-11-22\\1108C.cpp","group":"local","local":true}

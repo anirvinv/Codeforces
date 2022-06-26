@@ -1,0 +1,1 @@
+{"name":"Local: C","url":"c:\\Codeforces\\CF Rounds\\Round770\\C.cpp","tests":[{"id":1644162918586,"input":"4\n1 1\n2 2\n3 3\n3 1","output":"YES\n1 \nYES\n1 3 \n2 4 \nNO\nYES\n1 \n2 \n3"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codeforces\\CF Rounds\\Round770\\C.cpp","group":"local","local":true}

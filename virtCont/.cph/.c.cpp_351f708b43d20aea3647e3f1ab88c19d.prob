@@ -1,0 +1,1 @@
+{"name":"Local: c","url":"c:\\Codeforces\\virtCont\\c.cpp","tests":[{"id":1648166697601,"input":"4\n4 5\n4 2 2 7\n5 4\n1 9 1 3 4\n2 17\n17 0\n2 17\n18 18","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codeforces\\virtCont\\c.cpp","group":"local","local":true}

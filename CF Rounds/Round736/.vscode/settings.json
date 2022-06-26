@@ -1,0 +1,12 @@
+{
+	"files.associations": {
+		"*.html": "html",
+		"deque": "cpp",
+		"string": "cpp",
+		"vector": "cpp",
+		"*.tcc": "cpp",
+		"random": "cpp",
+		"regex": "cpp",
+		"iostream": "cpp"
+	}
+}

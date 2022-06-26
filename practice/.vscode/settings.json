@@ -4,6 +4,34 @@
 		"iostream": "cpp",
 		"ostream": "cpp",
 		"cmath": "cpp",
-		"*.tcc": "cpp"
-	}
+		"*.tcc": "cpp",
+		"valarray": "cpp",
+		"array": "cpp",
+		"bitset": "cpp",
+		"string_view": "cpp",
+		"initializer_list": "cpp",
+		"regex": "cpp",
+		"utility": "cpp",
+		"random": "cpp",
+		"string": "cpp",
+		"unordered_map": "cpp",
+		"unordered_set": "cpp",
+		"deque": "cpp",
+		"list": "cpp",
+		"vector": "cpp",
+		"iomanip": "cpp"
+	},
+	"files.exclude": {
+		"**/.git": true,
+		"**/.svn": true,
+		"**/.hg": true,
+		"**/CVS": true,
+		"**/.DS_Store": true,
+		"**/Thumbs.db": true,
+		"**/.classpath": true,
+		"**/.project": true,
+		"**/.settings": true,
+		"**/.factorypath": true
+	},
+	"explorerExclude.backup": null
 }
