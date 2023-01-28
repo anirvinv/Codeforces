@@ -1,0 +1,11 @@
+{
+	"files.associations": {
+		"*.html": "html",
+		"iostream": "cpp",
+		"vector": "cpp",
+		"set": "cpp",
+		"utility": "cpp",
+		"chrono": "cpp",
+		"xtree": "cpp"
+	}
+}

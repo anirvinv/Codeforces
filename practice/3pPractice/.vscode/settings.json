@@ -12,6 +12,19 @@
     "chrono": "cpp",
     "limits": "cpp",
     "valarray": "cpp",
-    "cmath": "cpp"
+    "cmath": "cpp",
+    "array": "cpp",
+    "tuple": "cpp",
+    "utility": "cpp",
+    "initializer_list": "cpp",
+    "bitset": "cpp",
+    "xiosbase": "cpp",
+    "algorithm": "cpp",
+    "xstddef": "cpp",
+    "xtree": "cpp",
+    "filesystem": "cpp",
+    "locale": "cpp",
+    "xstring": "cpp",
+    "xmemory": "cpp"
   }
 }

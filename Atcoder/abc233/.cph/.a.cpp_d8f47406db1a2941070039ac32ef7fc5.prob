@@ -1,0 +1,1 @@
+{"name":"Local: a","url":"c:\\Codeforces\\Atcoder\\abc233\\a.cpp","tests":[{"id":1658663834446,"input":"80 94","output":"2"},{"id":1658663847688,"input":"1000 63","output":"0"},{"id":1658663911393,"input":"270 750","output":"48"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codeforces\\Atcoder\\abc233\\a.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"c:\\Codeforces\\CF Rounds\\EduRound135\\A.cpp","tests":[{"id":1662647888722,"input":"3\n3\n1 1 1\n1\n9\n2\n4 7","output":"3\n1\n2"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codeforces\\CF Rounds\\EduRound135\\A.cpp","group":"local","local":true}

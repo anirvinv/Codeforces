@@ -1,0 +1,1 @@
+{"name":"Local: 1373C","url":"c:\\Codeforces\\practice\\3pPractice\\6-29-22\\1373C.cpp","tests":[{"id":1656487311239,"input":"3\n--+-\n---\n++--+-","output":"7\n9\n6"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codeforces\\practice\\3pPractice\\6-29-22\\1373C.cpp","group":"local","local":true}

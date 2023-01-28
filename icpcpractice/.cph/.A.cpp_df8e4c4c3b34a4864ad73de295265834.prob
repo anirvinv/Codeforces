@@ -1,0 +1,1 @@
+{"name":"Local: A","url":"c:\\Codeforces\\icpcpractice\\A.cpp","tests":[{"id":1662301153429,"input":"1 2 3 4 5 6\n1 2 3 4 5 6","output":"0.50000"},{"id":1662833339213,"input":"4 4 4 4 1 1\n3 3 3 3 3 3","output":"0.66667"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Codeforces\\icpcpractice\\A.cpp","group":"local","local":true}
